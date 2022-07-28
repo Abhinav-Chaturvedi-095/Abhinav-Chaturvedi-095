@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Chaturvedi-095&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Chaturvedi-095)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
 <!-- - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
-- ![Visitor Count](https://profile-counter.glitch.me/Abhinav-Chaturvedi-095/count.svg)
+- ![Visitor Count](https://visitor-badge.glitch.me/badge?Abhinav-Chaturvedi-095=page.id)

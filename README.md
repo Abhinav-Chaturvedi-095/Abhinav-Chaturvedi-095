@@ -47,6 +47,17 @@ Here are some ideas to get you started:
 
 
 
-<!-- - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
-<!-- - ![Visitor Count](https://visitor-badge.glitch.me/badge?Abhinav-Chaturvedi-095=Abhinav-Chaturvedi-095) -->
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Abhinav-Chaturvedi-095/Movie_Recommendation_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Chaturvedi-095&repo=Movie_Recommendation_system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Movie_Recommendation_system" />
+</a>
+
+<a href="https://github.com/Abhinav-Chaturvedi-095/Diabetes-Predict_Public">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Chaturvedi-095&repo=Diabetes-Predict_Public&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Diabetes-Predict_Public" />
+</a>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Chaturvedi-095.README.md)

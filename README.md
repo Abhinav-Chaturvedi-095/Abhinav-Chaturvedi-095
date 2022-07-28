@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinav-Chaturvedi-095&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

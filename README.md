@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :zap: I love programming & machine learning
+- 🌱 I’m addicted to learning and growing every day
+- 📫 Youc can find me here:
+  - 💻: [LeetCode](https://leetcode.com/abhinav_09/)
+  - 🔗: [LinkedIn](https://www.linkedin.com/in/abhinavchaturvedi09/)

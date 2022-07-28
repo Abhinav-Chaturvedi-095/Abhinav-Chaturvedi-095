@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📫 Youc can find me here:
   - 💻: [LeetCode](https://leetcode.com/abhinav_09/)
   - 🔗: [LinkedIn](https://www.linkedin.com/in/abhinavchaturvedi09/)
-- [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Chaturvedi-095&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Chaturvedi-095)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
+[![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Chaturvedi-095&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Chaturvedi-095)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
 <!-- - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 <!-- - ![Visitor Count](https://visitor-badge.glitch.me/badge?Abhinav-Chaturvedi-095=Abhinav-Chaturvedi-095) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Chaturvedi-095.README.md)

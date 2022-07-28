@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/tool-MySQL-informational?style=flat&logo=mysqlt&logoColor=white&color=6aa6f8)
 <!-- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8) -->
 <!-- ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) -->

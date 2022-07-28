@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Chaturvedi-095)](https://github.com/Abhinav-Chaturvedi-095/github-readme-stats)
 <!-- - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 <!-- - ![Visitor Count](https://visitor-badge.glitch.me/badge?Abhinav-Chaturvedi-095=Abhinav-Chaturvedi-095) -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Chaturvedi-095.README.md&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Chaturvedi-095.README.md)

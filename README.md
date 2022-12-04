@@ -57,5 +57,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Chaturvedi-095&repo=Diabetes-Predict_Public&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Diabetes-Predict_Public" />
 </a>
 
+## 🗂️ Highlight Django Projects
 
+<a href="https://github.com/Abhinav-Chaturvedi-095/File-Sharing-Web-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Chaturvedi-095&repo=File-Sharing-Web-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="File-Sharing-Web-App" />
+ 
 <!-- # ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Chaturvedi-095.README.md) -->
